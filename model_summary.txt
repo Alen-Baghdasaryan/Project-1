@@ -1,0 +1,16 @@
+Model: Logistic Regression (L2)
+Features selected: 15
+Selected: ['Status_Checking_no checking account', 'Purpose_car (new)', 'Credit_History_critical account / other credits existing', 'Credit_Amount', 'Installment_Rate', 'Age', 'Duration', 'Personal_Status_male: single', 'Purpose_education', 'Status_Checking_<0 DM', 'Purpose_car (used)', 'Other_Installment_Plans_none', 'Other_Debtors_guarantor', 'Savings_<100 DM', 'Number_Credits']
+Classification report:
+              precision    recall  f1-score   support
+
+           1       0.83      0.88      0.85       141
+           2       0.66      0.56      0.61        59
+
+    accuracy                           0.79       200
+   macro avg       0.74      0.72      0.73       200
+weighted avg       0.78      0.79      0.78       200
+
+Confusion matrix:
+[[124  17]
+ [ 26  33]]

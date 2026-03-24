@@ -1,0 +1,16 @@
+feature,mean_abs_shap
+Status_Checking_no checking account,0.5246452045067516
+Credit_History_critical account / other credits existing,0.40451657418462067
+Purpose_car (new),0.33145847832859343
+Personal_Status_male: single,0.2941224064008571
+Installment_Rate,0.27496056666419105
+Duration,0.250613499020079
+Credit_Amount,0.25023915492128035
+Other_Installment_Plans_none,0.23815454413198833
+Status_Checking_<0 DM,0.23485167975300594
+Savings_<100 DM,0.23339635539694814
+Age,0.2272817162685846
+Number_Credits,0.18224367820144757
+Purpose_education,0.15201555008443102
+Other_Debtors_guarantor,0.08474667728208533
+Purpose_car (used),0.08108237956075832
